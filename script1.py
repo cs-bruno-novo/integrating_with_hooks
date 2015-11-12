@@ -1,4 +1,5 @@
 #!/usr/bin/env python2.7
+# teste hook
 
 def checkio(data):
     print("Teste11")
